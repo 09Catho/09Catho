@@ -22,7 +22,7 @@
 
 4. **VIP Section with Matic Blockchain**
    - Byte Net features a VIP section that offers exclusive content and premium learning resources. Users can access this section by making payments via the **Matic blockchain**.
-   - **Note**: Due to limitations in VPS server hosting and lack of funds, the Matic payment gateway node server isn't integrated into the live platform. However, we have provided the code for the payment gateway that can be set up by users with the necessary server resources. See [Matic Payment Gateway Code](#matic-payment-gateway).
+   - **Note**: Due to limitations in VPS server hosting and lack of funds, the Matic payment gateway node server isn't integrated into the live platform. However, we have provided the code for the payment gateway that can be set up by users with the necessary server resources. See [Matic Payment Gateway Code](https://github.com/09Catho/Maticpayment/tree/main).
 
 5. **Augmented Reality (AR) Section**
    - The AR section of the platform offers an immersive experience where students can interact with learning content in an augmented environment, making the learning of complex concepts more engaging and intuitive.
