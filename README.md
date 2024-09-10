@@ -48,4 +48,4 @@ To run this project locally, you will need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/byte-net.git
+   git clone https://github.com/BYTE-NETgit
